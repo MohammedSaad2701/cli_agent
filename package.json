@@ -1,0 +1,14 @@
+{
+  "name": "ai-agent-cli-tool",
+  "version": "1.0.0",
+  "description": "Conversational CLI AI agent that generates a Scaler Academy style webpage.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
